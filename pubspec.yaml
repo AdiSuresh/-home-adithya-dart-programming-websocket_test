@@ -1,0 +1,10 @@
+name: websocket_test
+description: A simple websocket command-line application
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  web_socket_channel: ^2.4.0
+  shelf: ^1.4.1
+  shelf_web_socket: ^1.0.4
